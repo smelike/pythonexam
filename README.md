@@ -1,0 +1,2 @@
+# pythonexam
+some python codes
